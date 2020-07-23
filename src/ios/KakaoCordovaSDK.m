@@ -68,7 +68,7 @@
                     }
                     
                     
-                } authTypes:authTypes];
+                } authType:KOAuthTypeAccount];
             } else {
                 // success
                 
